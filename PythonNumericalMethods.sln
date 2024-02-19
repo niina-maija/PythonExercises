@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PythonNumericalMethods", "PythonNumericalMethods.pyproj", "{5AE4B5EF-5EEB-4367-945F-95DAF7C28D8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AE4B5EF-5EEB-4367-945F-95DAF7C28D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AE4B5EF-5EEB-4367-945F-95DAF7C28D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FF42E33-5964-4055-B551-AD5C00B4C8F6}
+	EndGlobalSection
+EndGlobal
